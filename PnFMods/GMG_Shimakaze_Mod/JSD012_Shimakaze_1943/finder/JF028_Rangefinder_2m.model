@@ -1,7 +1,6 @@
 <JF028_Rangefinder_2m.model>
-	<castsShadow>	true	</castsShadow>
-	<parent>	PnFMods/GMG_Shimakaze_Mod/JSD012_Shimakaze_1943/finder/lods/JF028_Rangefinder_2m_lod1	</parent>
-	<extent>	1.0000	</extent>
-	<nodefullVisual>	PnFMods/GMG_Shimakaze_Mod/JSD012_Shimakaze_1943/finder/JF028_Rangefinder_2m	</nodefullVisual>
-	<metaData>	Wargaming | Lesta Studio	</metaData>
+	<visual>	PnFMods/GMG_Shimakaze_Mod/JSD012_Shimakaze_1943/finder/JF028_Rangefinder_2m.visual	</visual>
+	<animations />
+	<dyes />
+	<metaData>	Wargaming.net	</metaData>
 </JF028_Rangefinder_2m.model>

@@ -1,6 +1,6 @@
 <JSD012_Shimakaze_1943.mfm>
+	<!--<fx>	shaders/std_effects/PBS_ship.fx	</fx>-->
 	<fx>	PnFMods/GMG_Shimakaze_Mod/JSD012_Shimakaze_1943/ship/PBS_ship_anim_emissive.fx	</fx>
-	<collisionFlags>	0	</collisionFlags>
 	<property>	emissivePower
 		<Float>	0.80000	</Float>
 	</property>
@@ -31,6 +31,7 @@
 	<property>	animMap
 		<Texture>	PnFMods/GMG_Shimakaze_Mod/JSD012_Shimakaze_1943/ship/JSD012_Shimakaze_1943_anim.dds	</Texture>
 	</property>
+	<collisionFlags>	0	</collisionFlags>
 	<property>	ambientOcclusionMap
 		<Texture>	PnFMods/GMG_Shimakaze_Mod/JSD012_Shimakaze_1943/ship/JSD012_Shimakaze_1943_ao.dds	</Texture>
 	</property>

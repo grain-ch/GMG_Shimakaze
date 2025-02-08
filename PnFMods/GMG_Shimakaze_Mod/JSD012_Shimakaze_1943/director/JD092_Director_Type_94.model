@@ -1,7 +1,6 @@
 <JD092_Director_Type_94.model>
-	<castsShadow>	true	</castsShadow>
-	<parent>	PnFMods/GMG_Shimakaze_Mod/JSD012_Shimakaze_1943/director/lods/JD092_Director_Type_94_lod1	</parent>
-	<extent>	2.0000	</extent>
-	<nodefullVisual>	PnFMods/GMG_Shimakaze_Mod/JSD012_Shimakaze_1943/director/JD092_Director_Type_94	</nodefullVisual>
-	<metaData>	Wargaming | Lesta Studio	</metaData>
+	<visual>	PnFMods/GMG_Shimakaze_Mod/JSD012_Shimakaze_1943/director/JD092_Director_Type_94.visual	</visual>
+	<animations />
+	<dyes />
+	<metaData>	Wargaming.net	</metaData>
 </JD092_Director_Type_94.model>

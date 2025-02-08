@@ -1,7 +1,8 @@
 <JRS070_Radar_Type_22.model>
-	<castsShadow>	true	</castsShadow>
-	<parent>	PnFMods/GMG_Shimakaze_Mod/JSD012_Shimakaze_1943/radar/lods/JRS070_Radar_Type_22_lod1	</parent>
-	<extent>	3.0000	</extent>
-	<nodefullVisual>	PnFMods/GMG_Shimakaze_Mod/JSD012_Shimakaze_1943/radar/JRS070_Radar_Type_22	</nodefullVisual>
-	<metaData>	Wargaming | Lesta Studio	</metaData>
+	<visual>	PnFMods/GMG_Shimakaze_Mod/JSD012_Shimakaze_1943/radar/JRS070_Radar_Type_22.visual	</visual>
+	<animations>
+		<animation>	content/animation_state_machines/legacy/gameplay/JRS070_Radar_Type_22/JRS070_Radar_Type_22.ssm	</animation>
+	</animations>
+	<dyes />
+	<metaData>	Wargaming.net	</metaData>
 </JRS070_Radar_Type_22.model>
