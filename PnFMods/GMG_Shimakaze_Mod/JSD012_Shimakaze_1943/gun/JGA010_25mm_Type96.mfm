@@ -1,5 +1,4 @@
 <JGA010_25mm_Type96.mfm>
-	<!--<fx>	shaders/materials/pbs/ship_material.fx	</fx>-->
 	<fx>	shaders/materials/pbs/ship_emissive_material.fx	</fx>
 	<collisionFlags>	0	</collisionFlags>
 	<property>	ambientOcclusionMap

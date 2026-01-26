@@ -2,5 +2,6 @@
 	<visual>	PnFMods/GMG_Shimakaze_Mod/JSD012_Shimakaze_1943/gun/JGT036_610mm5_Type_93.visual	</visual>
 	<animations />
 	<dyes />
+	<skeletonExtenders />
 	<metaData>	Wargaming.net	</metaData>
 </JGT036_610mm5_Type_93.model>

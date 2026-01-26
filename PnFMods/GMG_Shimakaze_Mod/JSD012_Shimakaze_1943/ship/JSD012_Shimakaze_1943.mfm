@@ -1,6 +1,40 @@
 <JSD012_Shimakaze_1943.mfm>
 	<fx>	shaders/std_effects/PBS_ship_emissive.fx	</fx>
-	<property>	emissivePower
+	<collisionFlags>	0	</collisionFlags>
+	<property>	ambientOcclusionMap
+		<Texture>	PnFMods/GMG_Shimakaze_Mod/JSD012_Shimakaze_1943/ship/JSD012_Shimakaze_1943_ao.dds	</Texture>
+	</property>
+	<property>	detailMap
+		<Texture>	content/gameplay/common/textures/ship_atlas_detail.dds	</Texture>
+	</property>
+	<property>	diffuseMap
+		<Texture>	PnFMods/GMG_Shimakaze_Mod/JSD012_Shimakaze_1943/ship/JSD012_Shimakaze_1943_a.dds	</Texture>
+	</property>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/GMG_Shimakaze_Mod/JSD012_Shimakaze_1943/ship/JSD012_Shimakaze_1943_mg.dds	</Texture>
+	</property>
+	<property>	normalMap
+		<Texture>	PnFMods/GMG_Shimakaze_Mod/JSD012_Shimakaze_1943/ship/JSD012_Shimakaze_1943_n.dds	</Texture>
+	</property>
+	<property>	g_detailAlbedoInfluence
+		<Float>	0.0000	</Float>
+	</property>
+	<property>	g_detailFadeDistance
+		<Float>	5.0000	</Float>
+	</property>
+	<property>	g_detailGlossInfluence
+		<Float>	0.0000	</Float>
+	</property>
+	<property>	g_detailNormalInfluence
+		<Float>	0.0000	</Float>
+	</property>
+	<property>	g_detailScaleU
+		<Float>	32.0000	</Float>
+	</property>
+	<property>	g_detailScaleV
+		<Float>	32.0000	</Float>
+	</property>
+<property>	emissivePower
 		<Float>	0.80000	</Float>
 	</property>
 	<property>	animEmissionPower
@@ -36,38 +70,4 @@
 	<property>	animMap
 		<Texture>	PnFMods/GMG_Shimakaze_Mod/JSD012_Shimakaze_1943/ship/JSD012_Shimakaze_1943_anim.dds	</Texture>
 	</property>
-	<collisionFlags>	0	</collisionFlags>
-	<property>	ambientOcclusionMap
-		<Texture>	PnFMods/GMG_Shimakaze_Mod/JSD012_Shimakaze_1943/ship/JSD012_Shimakaze_1943_ao.dds	</Texture>
-	</property>
-	<property>	detailMap
-		<Texture>	content/gameplay/common/textures/ship_atlas_detail.dds	</Texture>
-	</property>
-	<property>	diffuseMap
-		<Texture>	PnFMods/GMG_Shimakaze_Mod/JSD012_Shimakaze_1943/ship/JSD012_Shimakaze_1943_a.dds	</Texture>
-	</property>
-	<property>	metallicGlossMap
-		<Texture>	PnFMods/GMG_Shimakaze_Mod/JSD012_Shimakaze_1943/ship/JSD012_Shimakaze_1943_mg.dds	</Texture>
-	</property>
-	<property>	normalMap
-		<Texture>	PnFMods/GMG_Shimakaze_Mod/JSD012_Shimakaze_1943/ship/JSD012_Shimakaze_1943_n.dds	</Texture>
-	</property>
-	<property>	g_detailAlbedoInfluence
-		<Float>	0.0000	</Float>
-	</property>
-	<property>	g_detailFadeDistance
-		<Float>	5.0000	</Float>
-	</property>
-	<property>	g_detailGlossInfluence
-		<Float>	0.0000	</Float>
-	</property>
-	<property>	g_detailNormalInfluence
-		<Float>	0.0000	</Float>
-	</property>
-	<property>	g_detailScaleU
-		<Float>	32.0000	</Float>
-	</property>
-	<property>	g_detailScaleV
-		<Float>	32.0000	</Float>
-	</property>
-</JSD012_Shimakaze_1943.mfm>
+	</JSD012_Shimakaze_1943.mfm>
